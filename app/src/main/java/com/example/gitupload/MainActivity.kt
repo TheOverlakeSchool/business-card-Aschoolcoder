@@ -57,7 +57,7 @@ fun BusinessCard(name: String, modifier: Modifier = Modifier) {
             alpha = 0.5F
         )
         Text(
-            text = stringResource(R.string.name_text),
+            text = stringResource(R.string.name_text_new),
             fontSize = 36.sp,
             modifier = Modifier
                 .padding(top = 16.dp)
